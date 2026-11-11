@@ -4,6 +4,8 @@
 
 **[公開版 v1.0.0 をダウンロード（ZIP、1.93 MB）](https://github.com/victriokook/Japanese-MSX-Office/releases/download/v1.0.0/Japanese-MSX-Office-Public.zip)** · [リリース情報](https://github.com/victriokook/Japanese-MSX-Office/releases/tag/v1.0.0)
 
+[YouTubeで1分間のデモを見る](https://youtu.be/5UCvR9IZSBI)
+
 <img src="office.png" alt="日本語MSX Officeの起動メニュー。2番から6番に同梱アプリが並ぶ" width="480">
 
 ## ダウンロードから起動まで
